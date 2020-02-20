@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="864f7737-2ab8-4871-b37d-6c3b2e199a7f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1Y0n5lqZ05zoAMuUHZLAZCdmmbx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Grade" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Grade" />
+      <module name="Assignment 1 (2020 S1)" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Grade" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="864f7737-2ab8-4871-b37d-6c3b2e199a7f" name="Default Changelist" comment="" />
+      <created>1582088198104</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582088198104</updated>
+      <workItem from="1582088201494" duration="19941000" />
+      <workItem from="1582181130694" duration="1770000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582088324359">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1582088324359" />
+    <state x="-1222" y="61" width="1034" height="580" key="#xdebugger.evaluate" timestamp="1582108609545">
+      <screen x="-1366" y="0" width="1366" height="728" />
+    </state>
+    <state x="-1222" y="61" width="1034" height="580" key="#xdebugger.evaluate/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1582108609545" />
+    <state width="457" height="454" key="DebuggerActiveHint" timestamp="1582108756966">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="448" height="454" key="DebuggerActiveHint/0.0.1366.728/-1366.0.1366.728@-1366.0.1366.728" timestamp="1582090062940" />
+    <state width="457" height="454" key="DebuggerActiveHint/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1582108756966" />
+    <state width="1323" height="184" key="GridCell.Tab.0.bottom" timestamp="1582109293579">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="438" key="GridCell.Tab.0.bottom/0.0.1366.728/-1366.0.1366.728@-1366.0.1366.728" timestamp="1582090109100" />
+    <state width="1323" height="184" key="GridCell.Tab.0.bottom/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1582109293579" />
+    <state width="1323" height="184" key="GridCell.Tab.0.center" timestamp="1582109293579">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="438" key="GridCell.Tab.0.center/0.0.1366.728/-1366.0.1366.728@-1366.0.1366.728" timestamp="1582090109100" />
+    <state width="1323" height="184" key="GridCell.Tab.0.center/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1582109293579" />
+    <state width="1323" height="184" key="GridCell.Tab.0.left" timestamp="1582109293579">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="438" key="GridCell.Tab.0.left/0.0.1366.728/-1366.0.1366.728@-1366.0.1366.728" timestamp="1582090109099" />
+    <state width="1323" height="184" key="GridCell.Tab.0.left/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1582109293579" />
+    <state width="1323" height="184" key="GridCell.Tab.0.right" timestamp="1582109293579">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="438" key="GridCell.Tab.0.right/0.0.1366.728/-1366.0.1366.728@-1366.0.1366.728" timestamp="1582090109100" />
+    <state width="1323" height="184" key="GridCell.Tab.0.right/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1582109293579" />
+    <state width="1323" height="184" key="GridCell.Tab.1.bottom" timestamp="1582109293580">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="214" key="GridCell.Tab.1.bottom/0.0.1366.728/-1366.0.1366.728@-1366.0.1366.728" timestamp="1582090037164" />
+    <state width="1323" height="184" key="GridCell.Tab.1.bottom/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1582109293580" />
+    <state width="1323" height="184" key="GridCell.Tab.1.center" timestamp="1582109293580">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="214" key="GridCell.Tab.1.center/0.0.1366.728/-1366.0.1366.728@-1366.0.1366.728" timestamp="1582090037164" />
+    <state width="1323" height="184" key="GridCell.Tab.1.center/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1582109293580" />
+    <state width="1323" height="184" key="GridCell.Tab.1.left" timestamp="1582109293580">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="214" key="GridCell.Tab.1.left/0.0.1366.728/-1366.0.1366.728@-1366.0.1366.728" timestamp="1582090037164" />
+    <state width="1323" height="184" key="GridCell.Tab.1.left/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1582109293580" />
+    <state width="1323" height="184" key="GridCell.Tab.1.right" timestamp="1582109293580">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="214" key="GridCell.Tab.1.right/0.0.1366.728/-1366.0.1366.728@-1366.0.1366.728" timestamp="1582090037164" />
+    <state width="1323" height="184" key="GridCell.Tab.1.right/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1582109293580" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1582088855627">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1582088855627" />
+    <state x="391" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1582088202402">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1582088202402" />
+    <state x="387" y="266" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1582088998982">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="387" y="266" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1582088998982" />
+    <state x="303" y="240" width="749" height="488" key="find.popup" timestamp="1582103836112">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="-976" y="120" width="749" height="488" key="find.popup/0.0.1366.728/-1366.0.1366.728@-1366.0.1366.728" timestamp="1582090102543" />
+    <state x="303" y="240" width="749" height="488" key="find.popup/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1582103836112" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Table.java</url>
+          <line>178</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Table.java</url>
+          <line>220</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Table.java</url>
+          <line>319</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Table.java</url>
+          <line>153</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Table.java</url>
+          <line>258</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Table.java</url>
+          <line>295</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Table.java</url>
+          <line>346</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TableTest.java</url>
+          <line>139</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TableTest.java</url>
+          <line>138</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Table.java</url>
+          <line>417</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Table.java</url>
+          <line>416</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Table.java</url>
+          <line>397</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TableTest.java</url>
+          <line>150</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
